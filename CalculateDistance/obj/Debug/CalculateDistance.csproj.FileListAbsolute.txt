@@ -1,0 +1,9 @@
+E:\Phoenix\newwork\CalculateDistance\CalculateDistance\obj\Debug\CalculateDistance.csproj.AssemblyReference.cache
+E:\Phoenix\newwork\CalculateDistance\CalculateDistance\obj\Debug\Window1.baml
+E:\Phoenix\newwork\CalculateDistance\CalculateDistance\obj\Debug\Window1.g.cs
+E:\Phoenix\newwork\CalculateDistance\CalculateDistance\obj\Debug\App.g.cs
+E:\Phoenix\newwork\CalculateDistance\CalculateDistance\obj\Debug\SearchAddressMap_MarkupCompile.cache
+E:\Phoenix\newwork\CalculateDistance\CalculateDistance\obj\Debug\SearchAddressMap.g.resources
+E:\Phoenix\newwork\CalculateDistance\CalculateDistance\obj\Debug\CalculateDistance.csproj.CoreCompileInputs.cache
+E:\Phoenix\newwork\CalculateDistance\CalculateDistance\obj\Debug\SearchAddressMap.exe
+E:\Phoenix\newwork\CalculateDistance\CalculateDistance\obj\Debug\SearchAddressMap.pdb
